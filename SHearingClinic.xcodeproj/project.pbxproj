@@ -1,0 +1,458 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		44B79A251463F7FC0013C536 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44B79A241463F7FC0013C536 /* UIKit.framework */; };
+		44B79A271463F7FC0013C536 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44B79A261463F7FC0013C536 /* Foundation.framework */; };
+		44B79A291463F7FC0013C536 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44B79A281463F7FC0013C536 /* CoreGraphics.framework */; };
+		44B79A2F1463F7FC0013C536 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 44B79A2D1463F7FC0013C536 /* InfoPlist.strings */; };
+		44B79A311463F7FC0013C536 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 44B79A301463F7FC0013C536 /* main.m */; };
+		44B79A351463F7FC0013C536 /* SHearingClinicAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 44B79A341463F7FC0013C536 /* SHearingClinicAppDelegate.m */; };
+		44B79A381463F7FC0013C536 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 44B79A361463F7FC0013C536 /* MainWindow.xib */; };
+		44B79A3B1463F7FD0013C536 /* SHearingClinicViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 44B79A3A1463F7FD0013C536 /* SHearingClinicViewController.m */; };
+		44B79A3E1463F7FD0013C536 /* SHearingClinicViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 44B79A3C1463F7FD0013C536 /* SHearingClinicViewController.xib */; };
+		44B79A461463F7FD0013C536 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44B79A451463F7FD0013C536 /* SenTestingKit.framework */; };
+		44B79A471463F7FD0013C536 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44B79A241463F7FC0013C536 /* UIKit.framework */; };
+		44B79A481463F7FD0013C536 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44B79A261463F7FC0013C536 /* Foundation.framework */; };
+		44B79A491463F7FD0013C536 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44B79A281463F7FC0013C536 /* CoreGraphics.framework */; };
+		44B79A511463F7FD0013C536 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 44B79A4F1463F7FD0013C536 /* InfoPlist.strings */; };
+		44B79A531463F7FD0013C536 /* SHearingClinicTests.h in Resources */ = {isa = PBXBuildFile; fileRef = 44B79A521463F7FD0013C536 /* SHearingClinicTests.h */; };
+		44B79A551463F7FD0013C536 /* SHearingClinicTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 44B79A541463F7FD0013C536 /* SHearingClinicTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		44B79A4A1463F7FD0013C536 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 44B79A171463F7FC0013C536 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 44B79A1F1463F7FC0013C536;
+			remoteInfo = SHearingClinic;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		44B79A201463F7FC0013C536 /* SHearingClinic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SHearingClinic.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		44B79A241463F7FC0013C536 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		44B79A261463F7FC0013C536 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		44B79A281463F7FC0013C536 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		44B79A2C1463F7FC0013C536 /* SHearingClinic-Info.plist */ = {isa = PBXFileReference; path = "SHearingClinic-Info.plist"; sourceTree = "<group>"; };
+		44B79A2E1463F7FC0013C536 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		44B79A301463F7FC0013C536 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		44B79A321463F7FC0013C536 /* SHearingClinic-Prefix.pch */ = {isa = PBXFileReference; path = "SHearingClinic-Prefix.pch"; sourceTree = "<group>"; };
+		44B79A331463F7FC0013C536 /* SHearingClinicAppDelegate.h */ = {isa = PBXFileReference; path = SHearingClinicAppDelegate.h; sourceTree = "<group>"; };
+		44B79A341463F7FC0013C536 /* SHearingClinicAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SHearingClinicAppDelegate.m; sourceTree = "<group>"; };
+		44B79A371463F7FC0013C536 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		44B79A391463F7FC0013C536 /* SHearingClinicViewController.h */ = {isa = PBXFileReference; path = SHearingClinicViewController.h; sourceTree = "<group>"; };
+		44B79A3A1463F7FD0013C536 /* SHearingClinicViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SHearingClinicViewController.m; sourceTree = "<group>"; };
+		44B79A3D1463F7FD0013C536 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SHearingClinicViewController.xib; sourceTree = "<group>"; };
+		44B79A441463F7FD0013C536 /* SHearingClinicTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SHearingClinicTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		44B79A451463F7FD0013C536 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		44B79A4E1463F7FD0013C536 /* SHearingClinicTests-Info.plist */ = {isa = PBXFileReference; path = "SHearingClinicTests-Info.plist"; sourceTree = "<group>"; };
+		44B79A501463F7FD0013C536 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		44B79A521463F7FD0013C536 /* SHearingClinicTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SHearingClinicTests.h; sourceTree = "<group>"; };
+		44B79A541463F7FD0013C536 /* SHearingClinicTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SHearingClinicTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		44B79A1D1463F7FC0013C536 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				44B79A251463F7FC0013C536 /* UIKit.framework in Frameworks */,
+				44B79A271463F7FC0013C536 /* Foundation.framework in Frameworks */,
+				44B79A291463F7FC0013C536 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		44B79A401463F7FD0013C536 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				44B79A461463F7FD0013C536 /* SenTestingKit.framework in Frameworks */,
+				44B79A471463F7FD0013C536 /* UIKit.framework in Frameworks */,
+				44B79A481463F7FD0013C536 /* Foundation.framework in Frameworks */,
+				44B79A491463F7FD0013C536 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		44B79A151463F7FC0013C536 = {
+			isa = PBXGroup;
+			children = (
+				44B79A2A1463F7FC0013C536 /* SHearingClinic */,
+				44B79A4C1463F7FD0013C536 /* SHearingClinicTests */,
+				44B79A231463F7FC0013C536 /* Frameworks */,
+				44B79A211463F7FC0013C536 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		44B79A211463F7FC0013C536 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				44B79A201463F7FC0013C536 /* SHearingClinic.app */,
+				44B79A441463F7FD0013C536 /* SHearingClinicTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		44B79A231463F7FC0013C536 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				44B79A241463F7FC0013C536 /* UIKit.framework */,
+				44B79A261463F7FC0013C536 /* Foundation.framework */,
+				44B79A281463F7FC0013C536 /* CoreGraphics.framework */,
+				44B79A451463F7FD0013C536 /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		44B79A2A1463F7FC0013C536 /* SHearingClinic */ = {
+			isa = PBXGroup;
+			children = (
+				44B79A331463F7FC0013C536 /* SHearingClinicAppDelegate.h */,
+				44B79A341463F7FC0013C536 /* SHearingClinicAppDelegate.m */,
+				44B79A361463F7FC0013C536 /* MainWindow.xib */,
+				44B79A391463F7FC0013C536 /* SHearingClinicViewController.h */,
+				44B79A3A1463F7FD0013C536 /* SHearingClinicViewController.m */,
+				44B79A3C1463F7FD0013C536 /* SHearingClinicViewController.xib */,
+				44B79A2B1463F7FC0013C536 /* Supporting Files */,
+			);
+			path = SHearingClinic;
+			sourceTree = "<group>";
+		};
+		44B79A2B1463F7FC0013C536 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				44B79A2C1463F7FC0013C536 /* SHearingClinic-Info.plist */,
+				44B79A2D1463F7FC0013C536 /* InfoPlist.strings */,
+				44B79A301463F7FC0013C536 /* main.m */,
+				44B79A321463F7FC0013C536 /* SHearingClinic-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		44B79A4C1463F7FD0013C536 /* SHearingClinicTests */ = {
+			isa = PBXGroup;
+			children = (
+				44B79A521463F7FD0013C536 /* SHearingClinicTests.h */,
+				44B79A541463F7FD0013C536 /* SHearingClinicTests.m */,
+				44B79A4D1463F7FD0013C536 /* Supporting Files */,
+			);
+			path = SHearingClinicTests;
+			sourceTree = "<group>";
+		};
+		44B79A4D1463F7FD0013C536 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				44B79A4E1463F7FD0013C536 /* SHearingClinicTests-Info.plist */,
+				44B79A4F1463F7FD0013C536 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		44B79A1F1463F7FC0013C536 /* SHearingClinic */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 44B79A581463F7FD0013C536 /* Build configuration list for PBXNativeTarget "SHearingClinic" */;
+			buildPhases = (
+				44B79A1C1463F7FC0013C536 /* Sources */,
+				44B79A1D1463F7FC0013C536 /* Frameworks */,
+				44B79A1E1463F7FC0013C536 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SHearingClinic;
+			productName = SHearingClinic;
+			productReference = 44B79A201463F7FC0013C536 /* SHearingClinic.app */;
+			productType = "com.apple.product-type.application";
+		};
+		44B79A431463F7FD0013C536 /* SHearingClinicTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 44B79A5B1463F7FD0013C536 /* Build configuration list for PBXNativeTarget "SHearingClinicTests" */;
+			buildPhases = (
+				44B79A3F1463F7FD0013C536 /* Sources */,
+				44B79A401463F7FD0013C536 /* Frameworks */,
+				44B79A411463F7FD0013C536 /* Resources */,
+				44B79A421463F7FD0013C536 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				44B79A4B1463F7FD0013C536 /* PBXTargetDependency */,
+			);
+			name = SHearingClinicTests;
+			productName = SHearingClinicTests;
+			productReference = 44B79A441463F7FD0013C536 /* SHearingClinicTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		44B79A171463F7FC0013C536 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = "mobiappsolutions@gmail.com";
+			};
+			buildConfigurationList = 44B79A1A1463F7FC0013C536 /* Build configuration list for PBXProject "SHearingClinic" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 44B79A151463F7FC0013C536;
+			productRefGroup = 44B79A211463F7FC0013C536 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				44B79A1F1463F7FC0013C536 /* SHearingClinic */,
+				44B79A431463F7FD0013C536 /* SHearingClinicTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		44B79A1E1463F7FC0013C536 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				44B79A2F1463F7FC0013C536 /* InfoPlist.strings in Resources */,
+				44B79A381463F7FC0013C536 /* MainWindow.xib in Resources */,
+				44B79A3E1463F7FD0013C536 /* SHearingClinicViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		44B79A411463F7FD0013C536 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				44B79A511463F7FD0013C536 /* InfoPlist.strings in Resources */,
+				44B79A531463F7FD0013C536 /* SHearingClinicTests.h in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		44B79A421463F7FD0013C536 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		44B79A1C1463F7FC0013C536 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				44B79A311463F7FC0013C536 /* main.m in Sources */,
+				44B79A351463F7FC0013C536 /* SHearingClinicAppDelegate.m in Sources */,
+				44B79A3B1463F7FD0013C536 /* SHearingClinicViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		44B79A3F1463F7FD0013C536 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				44B79A551463F7FD0013C536 /* SHearingClinicTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		44B79A4B1463F7FD0013C536 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 44B79A1F1463F7FC0013C536 /* SHearingClinic */;
+			targetProxy = 44B79A4A1463F7FD0013C536 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		44B79A2D1463F7FC0013C536 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				44B79A2E1463F7FC0013C536 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		44B79A361463F7FC0013C536 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				44B79A371463F7FC0013C536 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		44B79A3C1463F7FD0013C536 /* SHearingClinicViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				44B79A3D1463F7FD0013C536 /* en */,
+			);
+			name = SHearingClinicViewController.xib;
+			sourceTree = "<group>";
+		};
+		44B79A4F1463F7FD0013C536 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				44B79A501463F7FD0013C536 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		44B79A561463F7FD0013C536 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		44B79A571463F7FD0013C536 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		44B79A591463F7FD0013C536 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SHearingClinic/SHearingClinic-Prefix.pch";
+				INFOPLIST_FILE = "SHearingClinic/SHearingClinic-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		44B79A5A1463F7FD0013C536 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SHearingClinic/SHearingClinic-Prefix.pch";
+				INFOPLIST_FILE = "SHearingClinic/SHearingClinic-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		44B79A5C1463F7FD0013C536 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/SHearingClinic.app/SHearingClinic";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SHearingClinic/SHearingClinic-Prefix.pch";
+				INFOPLIST_FILE = "SHearingClinicTests/SHearingClinicTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		44B79A5D1463F7FD0013C536 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/SHearingClinic.app/SHearingClinic";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SHearingClinic/SHearingClinic-Prefix.pch";
+				INFOPLIST_FILE = "SHearingClinicTests/SHearingClinicTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		44B79A1A1463F7FC0013C536 /* Build configuration list for PBXProject "SHearingClinic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				44B79A561463F7FD0013C536 /* Debug */,
+				44B79A571463F7FD0013C536 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		44B79A581463F7FD0013C536 /* Build configuration list for PBXNativeTarget "SHearingClinic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				44B79A591463F7FD0013C536 /* Debug */,
+				44B79A5A1463F7FD0013C536 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		44B79A5B1463F7FD0013C536 /* Build configuration list for PBXNativeTarget "SHearingClinicTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				44B79A5C1463F7FD0013C536 /* Debug */,
+				44B79A5D1463F7FD0013C536 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 44B79A171463F7FC0013C536 /* Project object */;
+}
