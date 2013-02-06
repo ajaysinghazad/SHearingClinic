@@ -3,12 +3,16 @@
 //  SHearingClinic
 //
 //  Created by MobiApp Solutions on 04/11/11.
-//  Copyright 2011 mobiappsolutions@gmail.com. All rights reserved.
+//  Copyright 2011 MAS INDIA [mobiappsolutions@gmail.com]. All rights reserved.
 //
 
 #import "SHearingClinicViewController.h"
 
+
+
 @implementation SHearingClinicViewController
+
+@synthesize mainViewContrller;
 
 - (void)didReceiveMemoryWarning
 {
@@ -20,13 +24,16 @@
 
 #pragma mark - View lifecycle
 
-/*
+
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad
 {
+    mainViewContrller=[[MainViewController alloc]init];
+    [self.view addSubview:mainViewContrller.view];
+    
     [super viewDidLoad];
 }
-*/
+
 
 - (void)viewDidUnload
 {

@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		444CF0041474D20F006C4907 /* Arrow2.png in Resources */ = {isa = PBXBuildFile; fileRef = 444CF0031474D20F006C4907 /* Arrow2.png */; };
+		44804A20146BB68A00A9C05C /* Arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 44804A1F146BB68A00A9C05C /* Arrow.png */; };
+		44898B69146832DE00BDBBD2 /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 44898B68146832DE00BDBBD2 /* libxml2.dylib */; };
+		448ACC96147F4AC300052F4D /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 448ACC95147F4AC300052F4D /* Default.png */; };
+		448ACC9B147F4AFF00052F4D /* icon57.png in Resources */ = {isa = PBXBuildFile; fileRef = 448ACC98147F4AFF00052F4D /* icon57.png */; };
+		448ACC9C147F4AFF00052F4D /* icon72.png in Resources */ = {isa = PBXBuildFile; fileRef = 448ACC99147F4AFF00052F4D /* icon72.png */; };
+		448ACC9D147F4AFF00052F4D /* icon114.png in Resources */ = {isa = PBXBuildFile; fileRef = 448ACC9A147F4AFF00052F4D /* icon114.png */; };
+		448C84E7146502210075F31B /* Header.png in Resources */ = {isa = PBXBuildFile; fileRef = 448C84E6146502210075F31B /* Header.png */; };
+		448C850014654A5A0075F31B /* CliniciansViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 448C84FF14654A5A0075F31B /* CliniciansViewController.m */; };
+		448C850314654A950075F31B /* WelcomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 448C850214654A950075F31B /* WelcomeViewController.m */; };
+		448C850614654AB70075F31B /* AboutUsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 448C850514654AB70075F31B /* AboutUsViewController.m */; };
+		448C850914654B130075F31B /* ServicesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 448C850814654B130075F31B /* ServicesViewController.m */; };
+		448C850C14654B6C0075F31B /* ContactMapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 448C850B14654B6C0075F31B /* ContactMapViewController.m */; };
 		44B79A251463F7FC0013C536 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44B79A241463F7FC0013C536 /* UIKit.framework */; };
 		44B79A271463F7FC0013C536 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44B79A261463F7FC0013C536 /* Foundation.framework */; };
 		44B79A291463F7FC0013C536 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44B79A281463F7FC0013C536 /* CoreGraphics.framework */; };
@@ -23,6 +36,14 @@
 		44B79A511463F7FD0013C536 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 44B79A4F1463F7FD0013C536 /* InfoPlist.strings */; };
 		44B79A531463F7FD0013C536 /* SHearingClinicTests.h in Resources */ = {isa = PBXBuildFile; fileRef = 44B79A521463F7FD0013C536 /* SHearingClinicTests.h */; };
 		44B79A551463F7FD0013C536 /* SHearingClinicTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 44B79A541463F7FD0013C536 /* SHearingClinicTests.m */; };
+		44B79A661463F88E0013C536 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 44B79A651463F88E0013C536 /* MainViewController.m */; };
+		44B79A691463FD9D0013C536 /* Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 44B79A681463FD9D0013C536 /* Logo.png */; };
+		44B79A6F1463FE310013C536 /* Bar.png in Resources */ = {isa = PBXBuildFile; fileRef = 44B79A6E1463FE310013C536 /* Bar.png */; };
+		44B79A71146417A10013C536 /* bgImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 44B79A70146417A10013C536 /* bgImage.png */; };
+		D3FCDE801495BEAF00A6DC9F /* iconBack.png in Resources */ = {isa = PBXBuildFile; fileRef = D3FCDE7F1495BEAF00A6DC9F /* iconBack.png */; };
+		D3FCDEC91495CF5D00A6DC9F /* map.png in Resources */ = {isa = PBXBuildFile; fileRef = D3FCDEC81495CF5D00A6DC9F /* map.png */; };
+		D3FCDFA21495FCCA00A6DC9F /* bgButton.png in Resources */ = {isa = PBXBuildFile; fileRef = D3FCDFA11495FCCA00A6DC9F /* bgButton.png */; };
+		D3FCDFD41496049900A6DC9F /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3FCDFD31496049900A6DC9F /* MessageUI.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,26 +57,53 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		44B79A201463F7FC0013C536 /* SHearingClinic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SHearingClinic.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		444CF0031474D20F006C4907 /* Arrow2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Arrow2.png; sourceTree = "<group>"; };
+		44804A1F146BB68A00A9C05C /* Arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Arrow.png; sourceTree = "<group>"; };
+		44898B68146832DE00BDBBD2 /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
+		448ACC95147F4AC300052F4D /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		448ACC98147F4AFF00052F4D /* icon57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon57.png; sourceTree = "<group>"; };
+		448ACC99147F4AFF00052F4D /* icon72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon72.png; sourceTree = "<group>"; };
+		448ACC9A147F4AFF00052F4D /* icon114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon114.png; sourceTree = "<group>"; };
+		448C84E6146502210075F31B /* Header.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Header.png; sourceTree = "<group>"; };
+		448C84FE14654A5A0075F31B /* CliniciansViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CliniciansViewController.h; sourceTree = "<group>"; };
+		448C84FF14654A5A0075F31B /* CliniciansViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CliniciansViewController.m; sourceTree = "<group>"; };
+		448C850114654A950075F31B /* WelcomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WelcomeViewController.h; sourceTree = "<group>"; };
+		448C850214654A950075F31B /* WelcomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WelcomeViewController.m; sourceTree = "<group>"; };
+		448C850414654AB70075F31B /* AboutUsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutUsViewController.h; sourceTree = "<group>"; };
+		448C850514654AB70075F31B /* AboutUsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutUsViewController.m; sourceTree = "<group>"; };
+		448C850714654B130075F31B /* ServicesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ServicesViewController.h; sourceTree = "<group>"; };
+		448C850814654B130075F31B /* ServicesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ServicesViewController.m; sourceTree = "<group>"; };
+		448C850A14654B6C0075F31B /* ContactMapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactMapViewController.h; sourceTree = "<group>"; };
+		448C850B14654B6C0075F31B /* ContactMapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactMapViewController.m; sourceTree = "<group>"; };
+		44B79A201463F7FC0013C536 /* SHC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SHC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		44B79A241463F7FC0013C536 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		44B79A261463F7FC0013C536 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		44B79A281463F7FC0013C536 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		44B79A2C1463F7FC0013C536 /* SHearingClinic-Info.plist */ = {isa = PBXFileReference; path = "SHearingClinic-Info.plist"; sourceTree = "<group>"; };
+		44B79A2C1463F7FC0013C536 /* SHC-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SHC-Info.plist"; sourceTree = "<group>"; };
 		44B79A2E1463F7FC0013C536 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		44B79A301463F7FC0013C536 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		44B79A321463F7FC0013C536 /* SHearingClinic-Prefix.pch */ = {isa = PBXFileReference; path = "SHearingClinic-Prefix.pch"; sourceTree = "<group>"; };
-		44B79A331463F7FC0013C536 /* SHearingClinicAppDelegate.h */ = {isa = PBXFileReference; path = SHearingClinicAppDelegate.h; sourceTree = "<group>"; };
+		44B79A321463F7FC0013C536 /* SHearingClinic-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SHearingClinic-Prefix.pch"; sourceTree = "<group>"; };
+		44B79A331463F7FC0013C536 /* SHearingClinicAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SHearingClinicAppDelegate.h; sourceTree = "<group>"; };
 		44B79A341463F7FC0013C536 /* SHearingClinicAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SHearingClinicAppDelegate.m; sourceTree = "<group>"; };
 		44B79A371463F7FC0013C536 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		44B79A391463F7FC0013C536 /* SHearingClinicViewController.h */ = {isa = PBXFileReference; path = SHearingClinicViewController.h; sourceTree = "<group>"; };
+		44B79A391463F7FC0013C536 /* SHearingClinicViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SHearingClinicViewController.h; sourceTree = "<group>"; };
 		44B79A3A1463F7FD0013C536 /* SHearingClinicViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SHearingClinicViewController.m; sourceTree = "<group>"; };
 		44B79A3D1463F7FD0013C536 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SHearingClinicViewController.xib; sourceTree = "<group>"; };
-		44B79A441463F7FD0013C536 /* SHearingClinicTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SHearingClinicTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		44B79A441463F7FD0013C536 /* SHCTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SHCTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		44B79A451463F7FD0013C536 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		44B79A4E1463F7FD0013C536 /* SHearingClinicTests-Info.plist */ = {isa = PBXFileReference; path = "SHearingClinicTests-Info.plist"; sourceTree = "<group>"; };
+		44B79A4E1463F7FD0013C536 /* SHCTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SHCTests-Info.plist"; sourceTree = "<group>"; };
 		44B79A501463F7FD0013C536 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		44B79A521463F7FD0013C536 /* SHearingClinicTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SHearingClinicTests.h; sourceTree = "<group>"; };
 		44B79A541463F7FD0013C536 /* SHearingClinicTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SHearingClinicTests.m; sourceTree = "<group>"; };
+		44B79A641463F88E0013C536 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		44B79A651463F88E0013C536 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		44B79A681463FD9D0013C536 /* Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Logo.png; sourceTree = "<group>"; };
+		44B79A6E1463FE310013C536 /* Bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bar.png; sourceTree = "<group>"; };
+		44B79A70146417A10013C536 /* bgImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bgImage.png; sourceTree = "<group>"; };
+		D3FCDE7F1495BEAF00A6DC9F /* iconBack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconBack.png; sourceTree = "<group>"; };
+		D3FCDEC81495CF5D00A6DC9F /* map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = map.png; sourceTree = "<group>"; };
+		D3FCDFA11495FCCA00A6DC9F /* bgButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bgButton.png; sourceTree = "<group>"; };
+		D3FCDFD31496049900A6DC9F /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,9 +111,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44898B69146832DE00BDBBD2 /* libxml2.dylib in Frameworks */,
 				44B79A251463F7FC0013C536 /* UIKit.framework in Frameworks */,
 				44B79A271463F7FC0013C536 /* Foundation.framework in Frameworks */,
 				44B79A291463F7FC0013C536 /* CoreGraphics.framework in Frameworks */,
+				D3FCDFD41496049900A6DC9F /* MessageUI.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -86,6 +136,8 @@
 		44B79A151463F7FC0013C536 = {
 			isa = PBXGroup;
 			children = (
+				44B79A671463FD600013C536 /* Images */,
+				44B79A631463F8560013C536 /* Classes */,
 				44B79A2A1463F7FC0013C536 /* SHearingClinic */,
 				44B79A4C1463F7FD0013C536 /* SHearingClinicTests */,
 				44B79A231463F7FC0013C536 /* Frameworks */,
@@ -96,8 +148,8 @@
 		44B79A211463F7FC0013C536 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				44B79A201463F7FC0013C536 /* SHearingClinic.app */,
-				44B79A441463F7FD0013C536 /* SHearingClinicTests.octest */,
+				44B79A201463F7FC0013C536 /* SHC.app */,
+				44B79A441463F7FD0013C536 /* SHCTests.octest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -105,6 +157,8 @@
 		44B79A231463F7FC0013C536 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				44898B68146832DE00BDBBD2 /* libxml2.dylib */,
+				D3FCDFD31496049900A6DC9F /* MessageUI.framework */,
 				44B79A241463F7FC0013C536 /* UIKit.framework */,
 				44B79A261463F7FC0013C536 /* Foundation.framework */,
 				44B79A281463F7FC0013C536 /* CoreGraphics.framework */,
@@ -118,10 +172,8 @@
 			children = (
 				44B79A331463F7FC0013C536 /* SHearingClinicAppDelegate.h */,
 				44B79A341463F7FC0013C536 /* SHearingClinicAppDelegate.m */,
-				44B79A361463F7FC0013C536 /* MainWindow.xib */,
 				44B79A391463F7FC0013C536 /* SHearingClinicViewController.h */,
 				44B79A3A1463F7FD0013C536 /* SHearingClinicViewController.m */,
-				44B79A3C1463F7FD0013C536 /* SHearingClinicViewController.xib */,
 				44B79A2B1463F7FC0013C536 /* Supporting Files */,
 			);
 			path = SHearingClinic;
@@ -130,7 +182,9 @@
 		44B79A2B1463F7FC0013C536 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				44B79A2C1463F7FC0013C536 /* SHearingClinic-Info.plist */,
+				44B79A2C1463F7FC0013C536 /* SHC-Info.plist */,
+				44B79A361463F7FC0013C536 /* MainWindow.xib */,
+				44B79A3C1463F7FD0013C536 /* SHearingClinicViewController.xib */,
 				44B79A2D1463F7FC0013C536 /* InfoPlist.strings */,
 				44B79A301463F7FC0013C536 /* main.m */,
 				44B79A321463F7FC0013C536 /* SHearingClinic-Prefix.pch */,
@@ -151,18 +205,57 @@
 		44B79A4D1463F7FD0013C536 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				44B79A4E1463F7FD0013C536 /* SHearingClinicTests-Info.plist */,
+				44B79A4E1463F7FD0013C536 /* SHCTests-Info.plist */,
 				44B79A4F1463F7FD0013C536 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		44B79A631463F8560013C536 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				44B79A641463F88E0013C536 /* MainViewController.h */,
+				44B79A651463F88E0013C536 /* MainViewController.m */,
+				448C850114654A950075F31B /* WelcomeViewController.h */,
+				448C850214654A950075F31B /* WelcomeViewController.m */,
+				448C850414654AB70075F31B /* AboutUsViewController.h */,
+				448C850514654AB70075F31B /* AboutUsViewController.m */,
+				448C84FE14654A5A0075F31B /* CliniciansViewController.h */,
+				448C84FF14654A5A0075F31B /* CliniciansViewController.m */,
+				448C850714654B130075F31B /* ServicesViewController.h */,
+				448C850814654B130075F31B /* ServicesViewController.m */,
+				448C850A14654B6C0075F31B /* ContactMapViewController.h */,
+				448C850B14654B6C0075F31B /* ContactMapViewController.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		44B79A671463FD600013C536 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				44B79A70146417A10013C536 /* bgImage.png */,
+				448C84E6146502210075F31B /* Header.png */,
+				D3FCDE7F1495BEAF00A6DC9F /* iconBack.png */,
+				D3FCDEC81495CF5D00A6DC9F /* map.png */,
+				D3FCDFA11495FCCA00A6DC9F /* bgButton.png */,
+				44804A1F146BB68A00A9C05C /* Arrow.png */,
+				448ACC98147F4AFF00052F4D /* icon57.png */,
+				448ACC99147F4AFF00052F4D /* icon72.png */,
+				448ACC9A147F4AFF00052F4D /* icon114.png */,
+				448ACC95147F4AC300052F4D /* Default.png */,
+				44B79A6E1463FE310013C536 /* Bar.png */,
+				444CF0031474D20F006C4907 /* Arrow2.png */,
+				44B79A681463FD9D0013C536 /* Logo.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		44B79A1F1463F7FC0013C536 /* SHearingClinic */ = {
+		44B79A1F1463F7FC0013C536 /* SHC */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 44B79A581463F7FD0013C536 /* Build configuration list for PBXNativeTarget "SHearingClinic" */;
+			buildConfigurationList = 44B79A581463F7FD0013C536 /* Build configuration list for PBXNativeTarget "SHC" */;
 			buildPhases = (
 				44B79A1C1463F7FC0013C536 /* Sources */,
 				44B79A1D1463F7FC0013C536 /* Frameworks */,
@@ -172,14 +265,14 @@
 			);
 			dependencies = (
 			);
-			name = SHearingClinic;
+			name = SHC;
 			productName = SHearingClinic;
-			productReference = 44B79A201463F7FC0013C536 /* SHearingClinic.app */;
+			productReference = 44B79A201463F7FC0013C536 /* SHC.app */;
 			productType = "com.apple.product-type.application";
 		};
-		44B79A431463F7FD0013C536 /* SHearingClinicTests */ = {
+		44B79A431463F7FD0013C536 /* SHCTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 44B79A5B1463F7FD0013C536 /* Build configuration list for PBXNativeTarget "SHearingClinicTests" */;
+			buildConfigurationList = 44B79A5B1463F7FD0013C536 /* Build configuration list for PBXNativeTarget "SHCTests" */;
 			buildPhases = (
 				44B79A3F1463F7FD0013C536 /* Sources */,
 				44B79A401463F7FD0013C536 /* Frameworks */,
@@ -191,9 +284,9 @@
 			dependencies = (
 				44B79A4B1463F7FD0013C536 /* PBXTargetDependency */,
 			);
-			name = SHearingClinicTests;
+			name = SHCTests;
 			productName = SHearingClinicTests;
-			productReference = 44B79A441463F7FD0013C536 /* SHearingClinicTests.octest */;
+			productReference = 44B79A441463F7FD0013C536 /* SHCTests.octest */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
@@ -204,7 +297,7 @@
 			attributes = {
 				ORGANIZATIONNAME = "mobiappsolutions@gmail.com";
 			};
-			buildConfigurationList = 44B79A1A1463F7FC0013C536 /* Build configuration list for PBXProject "SHearingClinic" */;
+			buildConfigurationList = 44B79A1A1463F7FC0013C536 /* Build configuration list for PBXProject "SHC" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -216,8 +309,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				44B79A1F1463F7FC0013C536 /* SHearingClinic */,
-				44B79A431463F7FD0013C536 /* SHearingClinicTests */,
+				44B79A1F1463F7FC0013C536 /* SHC */,
+				44B79A431463F7FD0013C536 /* SHCTests */,
 			);
 		};
 /* End PBXProject section */
@@ -230,6 +323,19 @@
 				44B79A2F1463F7FC0013C536 /* InfoPlist.strings in Resources */,
 				44B79A381463F7FC0013C536 /* MainWindow.xib in Resources */,
 				44B79A3E1463F7FD0013C536 /* SHearingClinicViewController.xib in Resources */,
+				44B79A691463FD9D0013C536 /* Logo.png in Resources */,
+				44B79A6F1463FE310013C536 /* Bar.png in Resources */,
+				44B79A71146417A10013C536 /* bgImage.png in Resources */,
+				448C84E7146502210075F31B /* Header.png in Resources */,
+				44804A20146BB68A00A9C05C /* Arrow.png in Resources */,
+				444CF0041474D20F006C4907 /* Arrow2.png in Resources */,
+				448ACC96147F4AC300052F4D /* Default.png in Resources */,
+				448ACC9B147F4AFF00052F4D /* icon57.png in Resources */,
+				448ACC9C147F4AFF00052F4D /* icon72.png in Resources */,
+				448ACC9D147F4AFF00052F4D /* icon114.png in Resources */,
+				D3FCDE801495BEAF00A6DC9F /* iconBack.png in Resources */,
+				D3FCDEC91495CF5D00A6DC9F /* map.png in Resources */,
+				D3FCDFA21495FCCA00A6DC9F /* bgButton.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,6 +374,12 @@
 				44B79A311463F7FC0013C536 /* main.m in Sources */,
 				44B79A351463F7FC0013C536 /* SHearingClinicAppDelegate.m in Sources */,
 				44B79A3B1463F7FD0013C536 /* SHearingClinicViewController.m in Sources */,
+				44B79A661463F88E0013C536 /* MainViewController.m in Sources */,
+				448C850014654A5A0075F31B /* CliniciansViewController.m in Sources */,
+				448C850314654A950075F31B /* WelcomeViewController.m in Sources */,
+				448C850614654AB70075F31B /* AboutUsViewController.m in Sources */,
+				448C850914654B130075F31B /* ServicesViewController.m in Sources */,
+				448C850C14654B6C0075F31B /* ContactMapViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,7 +396,7 @@
 /* Begin PBXTargetDependency section */
 		44B79A4B1463F7FD0013C536 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 44B79A1F1463F7FC0013C536 /* SHearingClinic */;
+			target = 44B79A1F1463F7FC0013C536 /* SHC */;
 			targetProxy = 44B79A4A1463F7FD0013C536 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -330,7 +442,8 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Brett Kettle (9386N54T5B)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Brett Kettle (9386N54T5B)";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -344,7 +457,9 @@
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.2.2;
+				PROVISIONING_PROFILE = "1E93344C-B92D-4922-93A7-7668742722E9";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "1E93344C-B92D-4922-93A7-7668742722E9";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -354,15 +469,18 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: David Learmonth (77PZPDRGEE)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: David Learmonth (77PZPDRGEE)";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_VERSION = com.apple.compilers.llvmgcc42;
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "D222A78C-5F17-407F-9CDC-28E40405DC48";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D222A78C-5F17-407F-9CDC-28E40405DC48";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -373,8 +491,9 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SHearingClinic/SHearingClinic-Prefix.pch";
-				INFOPLIST_FILE = "SHearingClinic/SHearingClinic-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "SHearingClinic/SHC-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				PRODUCT_NAME = SHC;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -384,8 +503,9 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SHearingClinic/SHearingClinic-Prefix.pch";
-				INFOPLIST_FILE = "SHearingClinic/SHearingClinic-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "SHearingClinic/SHC-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				PRODUCT_NAME = SHC;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -400,8 +520,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SHearingClinic/SHearingClinic-Prefix.pch";
-				INFOPLIST_FILE = "SHearingClinicTests/SHearingClinicTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "SHearingClinicTests/SHCTests-Info.plist";
+				PRODUCT_NAME = SHCTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -417,8 +537,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SHearingClinic/SHearingClinic-Prefix.pch";
-				INFOPLIST_FILE = "SHearingClinicTests/SHearingClinicTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "SHearingClinicTests/SHCTests-Info.plist";
+				PRODUCT_NAME = SHCTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -427,7 +547,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		44B79A1A1463F7FC0013C536 /* Build configuration list for PBXProject "SHearingClinic" */ = {
+		44B79A1A1463F7FC0013C536 /* Build configuration list for PBXProject "SHC" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				44B79A561463F7FD0013C536 /* Debug */,
@@ -436,21 +556,23 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		44B79A581463F7FD0013C536 /* Build configuration list for PBXNativeTarget "SHearingClinic" */ = {
+		44B79A581463F7FD0013C536 /* Build configuration list for PBXNativeTarget "SHC" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				44B79A591463F7FD0013C536 /* Debug */,
 				44B79A5A1463F7FD0013C536 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		44B79A5B1463F7FD0013C536 /* Build configuration list for PBXNativeTarget "SHearingClinicTests" */ = {
+		44B79A5B1463F7FD0013C536 /* Build configuration list for PBXNativeTarget "SHCTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				44B79A5C1463F7FD0013C536 /* Debug */,
 				44B79A5D1463F7FD0013C536 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

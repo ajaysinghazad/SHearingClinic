@@ -1,0 +1,1035 @@
+TSHC
+v7
+r0
+t345617887.141621
+cCheck dependencies
+cCpResource build/Debug-iphoneos/SHC.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Info.plist SHearingClinic/SHC-Info.plist
+cProcessPCH /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-csijdfntedwwucdboynvkgltegee/SHearingClinic-Prefix.pch.gch SHearingClinic/SHearingClinic-Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+cProcessPCH /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-brelqnzodjkavsdzaexbvddlugct/SHearingClinic-Prefix.pch.gch SHearingClinic/SHearingClinic-Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/main.o /Users/ravi/Desktop/SHearingClinic/SHearingClinic/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHearingClinicAppDelegate.o /Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHearingClinicViewController.o /Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/MainViewController.o /Users/ravi/Desktop/SHearingClinic/MainViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/CliniciansViewController.o /Users/ravi/Desktop/SHearingClinic/CliniciansViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/WelcomeViewController.o /Users/ravi/Desktop/SHearingClinic/WelcomeViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/AboutUsViewController.o /Users/ravi/Desktop/SHearingClinic/AboutUsViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/ServicesViewController.o /Users/ravi/Desktop/SHearingClinic/ServicesViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/ContactMapViewController.o /Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/main.o /Users/ravi/Desktop/SHearingClinic/SHearingClinic/main.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHearingClinicAppDelegate.o /Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicAppDelegate.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHearingClinicViewController.o /Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/MainViewController.o /Users/ravi/Desktop/SHearingClinic/MainViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHC normal armv6
+cCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/CliniciansViewController.o /Users/ravi/Desktop/SHearingClinic/CliniciansViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/WelcomeViewController.o /Users/ravi/Desktop/SHearingClinic/WelcomeViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/AboutUsViewController.o /Users/ravi/Desktop/SHearingClinic/AboutUsViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/ServicesViewController.o /Users/ravi/Desktop/SHearingClinic/ServicesViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/ContactMapViewController.o /Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHC normal armv7
+cCreateUniversalBinary /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/SHC normal "armv6 armv7"
+cGenerateDSYMFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app.dSYM /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/SHC
+cCopyStringsFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/en.lproj/InfoPlist.strings SHearingClinic/en.lproj/InfoPlist.strings
+cCompileXIB /Users/ravi/Desktop/SHearingClinic/SHearingClinic/en.lproj/MainWindow.xib
+cCompileXIB /Users/ravi/Desktop/SHearingClinic/SHearingClinic/en.lproj/SHearingClinicViewController.xib
+cCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Logo.png Logo.png
+cCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Bar.png Bar.png
+cCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/bgImage.png bgImage.png
+cCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Header.png Header.png
+cCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Arrow.png Arrow.png
+cCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Arrow2.png Arrow2.png
+cCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Default.png Default.png
+cCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/icon57.png icon57.png
+cCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/icon72.png icon72.png
+cCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/icon114.png icon114.png
+cCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/iconBack.png iconBack.png
+cCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/map.png map.png
+cCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/bgButton.png bgButton.png
+cProcessProductPackaging "/Users/ravi/Library/MobileDevice/Provisioning Profiles/1E93344C-B92D-4922-93A7-7668742722E9.mobileprovision" /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/embedded.mobileprovision
+cTouch /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC.xcent
+cCodeSign /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004D36D0210000000000000110
+t1295437857
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004CC11D17000000000000291C
+t1287724311
+s10524
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004CC11D1700000000000000CD
+t1287724311
+s205
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004CC11D2E0000000000112F80
+t1287724334
+s1126272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libxml2.dylib
+c000000004CC10E3500000000001E1430
+t1287720501
+s1971248
+
+N/Users/ravi/Desktop/SHearingClinic/AboutUsViewController.h
+c000000004EE887B50000000000000377
+t1323861941
+s887
+i<UIKit/UIKit.h>
+
+N/Users/ravi/Desktop/SHearingClinic/AboutUsViewController.m
+c000000004EE887B50000000000001CB9
+t1323861941
+s7353
+i"AboutUsViewController.h"
+
+N/Users/ravi/Desktop/SHearingClinic/Arrow.png
+c000000004EE887B500000000000011E3
+t1323861941
+s4579
+
+N/Users/ravi/Desktop/SHearingClinic/Arrow2.png
+c000000004EE887B50000000000000EF5
+t1323861941
+s3829
+
+N/Users/ravi/Desktop/SHearingClinic/Bar.png
+c000000004EE887B50000000000000CE8
+t1323861941
+s3304
+
+N/Users/ravi/Desktop/SHearingClinic/CliniciansViewController.h
+c000000004EE887B5000000000000037E
+t1323861941
+s894
+i<UIKit/UIKit.h>
+
+N/Users/ravi/Desktop/SHearingClinic/CliniciansViewController.m
+c000000004EE887B50000000000003496
+t1323861941
+s13462
+i"CliniciansViewController.h"
+
+N/Users/ravi/Desktop/SHearingClinic/ContactMapViewController.h
+c000000004EE887B50000000000000618
+t1323861941
+s1560
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+
+N/Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m
+c000000004EE890700000000000005654
+t1323864176
+s22100
+i"ContactMapViewController.h"
+
+N/Users/ravi/Desktop/SHearingClinic/Default.png
+c000000004EE887B5000000000000C38E
+t1323861941
+s50062
+
+N/Users/ravi/Desktop/SHearingClinic/Header.png
+c000000004EE887B50000000000002758
+t1323861941
+s10072
+
+N/Users/ravi/Desktop/SHearingClinic/Logo.png
+c000000004EE887B50000000000002574
+t1323861941
+s9588
+
+N/Users/ravi/Desktop/SHearingClinic/MainViewController.h
+c000000004EE887B5000000000000052C
+t1323861941
+s1324
+i<UIKit/UIKit.h>
+i"WelcomeViewController.h"
+i"AboutUsViewController.h"
+i"CliniciansViewController.h"
+i"ServicesViewController.h"
+i"ContactMapViewController.h"
+
+N/Users/ravi/Desktop/SHearingClinic/MainViewController.m
+c000000004EE887B50000000000001F91
+t1323861941
+s8081
+i"MainViewController.h"
+
+N/Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinic-Prefix.pch
+c000000004EE887B5000000000000014E
+t1323861941
+s334
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicAppDelegate.h
+c000000004EE887B500000000000001D8
+t1323861941
+s472
+i<UIKit/UIKit.h>
+
+N/Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicAppDelegate.m
+c000000004EE887B500000000000009A2
+t1323861941
+s2466
+i"SHearingClinicAppDelegate.h"
+i"SHearingClinicViewController.h"
+
+N/Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicViewController.h
+c000000004EE887B500000000000001AA
+t1323861941
+s426
+i<UIKit/UIKit.h>
+i"MainViewController.h"
+
+N/Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicViewController.m
+c000000004EE887B50000000000000487
+t1323861941
+s1159
+i"SHearingClinicViewController.h"
+
+N/Users/ravi/Desktop/SHearingClinic/SHearingClinic/en.lproj/InfoPlist.strings
+c000000004EE887B5000000000000002D
+t1323861941
+s45
+
+N/Users/ravi/Desktop/SHearingClinic/SHearingClinic/en.lproj/MainWindow.xib
+c000000004EE887B50000000000004E6D
+t1323861941
+s20077
+
+N/Users/ravi/Desktop/SHearingClinic/SHearingClinic/en.lproj/SHearingClinicViewController.xib
+c000000004EE887B50000000000001A59
+t1323861941
+s6745
+
+N/Users/ravi/Desktop/SHearingClinic/SHearingClinic/main.m
+c000000004EE887B50000000000000179
+t1323861941
+s377
+i<UIKit/UIKit.h>
+
+N/Users/ravi/Desktop/SHearingClinic/ServicesViewController.h
+c000000004EE887B50000000000000377
+t1323861941
+s887
+i<UIKit/UIKit.h>
+
+N/Users/ravi/Desktop/SHearingClinic/ServicesViewController.m
+c000000004EE887B500000000000033DF
+t1323861941
+s13279
+i"ServicesViewController.h"
+
+N/Users/ravi/Desktop/SHearingClinic/WelcomeViewController.h
+c000000004EE887B50000000000000388
+t1323861941
+s904
+i<UIKit/UIKit.h>
+
+N/Users/ravi/Desktop/SHearingClinic/WelcomeViewController.m
+c000000004EE887B50000000000001E2C
+t1323861941
+s7724
+i"WelcomeViewController.h"
+
+N/Users/ravi/Desktop/SHearingClinic/bgButton.png
+c000000004EE887B50000000000000C81
+t1323861941
+s3201
+
+N/Users/ravi/Desktop/SHearingClinic/bgImage.png
+c000000004EE887B50000000000014380
+t1323861941
+s82816
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app
+t1323925087
+s782
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app.dSYM
+t1323925083
+s102
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Arrow.png
+t1323925084
+s4927
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Arrow2.png
+t1323925084
+s3559
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Bar.png
+t1323925084
+s3050
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Default.png
+t1323925085
+s52482
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Header.png
+t1323925084
+s10687
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Info.plist
+t1323925080
+s1208
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Logo.png
+t1323925084
+s10241
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/PkgInfo
+t1323925080
+s8
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/ResourceRules.plist
+t1323925080
+s485
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/SHC
+t1323925083
+s258552
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/bgButton.png
+t1323925085
+s2999
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/bgImage.png
+t1323925086
+s66454
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/embedded.mobileprovision
+t1323925086
+s8047
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/en.lproj/InfoPlist.strings
+t1323925084
+s42
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/en.lproj/MainWindow.nib
+t1323925084
+s1695
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/en.lproj/SHearingClinicViewController.nib
+t1323925084
+s1269
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/icon114.png
+t1323925085
+s9252
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/icon57.png
+t1323925085
+s6606
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/icon72.png
+t1323925085
+s7186
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/iconBack.png
+t1323925085
+s4723
+
+N/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/map.png
+t1323925085
+s44616
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/AboutUsViewController.o
+t1323925082
+s71444
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/CliniciansViewController.o
+t1323925081
+s84776
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/ContactMapViewController.o
+t1323925082
+s113996
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/MainViewController.o
+t1323925081
+s70580
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHC
+t1323925082
+s119332
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHC.LinkFileList
+c000000004EE97E57000000000000043F
+t1323925079
+s1087
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHearingClinicAppDelegate.o
+t1323925081
+s52360
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHearingClinicViewController.o
+t1323925081
+s41956
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/ServicesViewController.o
+t1323925082
+s82316
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/WelcomeViewController.o
+t1323925081
+s71596
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/main.o
+t1323925081
+s3100
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/AboutUsViewController.o
+t1323925082
+s70464
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/CliniciansViewController.o
+t1323925082
+s81332
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/ContactMapViewController.o
+t1323925083
+s106712
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/MainViewController.o
+t1323925082
+s70680
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHC
+t1323925083
+s131576
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHC.LinkFileList
+c000000004EE97E57000000000000043F
+t1323925079
+s1087
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHearingClinicAppDelegate.o
+t1323925082
+s52536
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHearingClinicViewController.o
+t1323925082
+s42116
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/ServicesViewController.o
+t1323925083
+s80008
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/WelcomeViewController.o
+t1323925082
+s70552
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/main.o
+t1323925082
+s3160
+
+N/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC.xcent
+t1323925086
+s482
+
+N/Users/ravi/Desktop/SHearingClinic/icon114.png
+c000000004EE887B500000000000022DA
+t1323861941
+s8922
+
+N/Users/ravi/Desktop/SHearingClinic/icon57.png
+c000000004EE887B500000000000018CC
+t1323861941
+s6348
+
+N/Users/ravi/Desktop/SHearingClinic/icon72.png
+c000000004EE887B50000000000001B3D
+t1323861941
+s6973
+
+N/Users/ravi/Desktop/SHearingClinic/iconBack.png
+c000000004EE887B5000000000000111A
+t1323861941
+s4378
+
+N/Users/ravi/Desktop/SHearingClinic/map.png
+c000000004EE887B5000000000000B38E
+t1323861941
+s45966
+
+N/Users/ravi/Library/MobileDevice/Provisioning Profiles/1E93344C-B92D-4922-93A7-7668742722E9.mobileprovision
+c000000004ED08F170000000000001F6F
+t1322290967
+s8047
+
+N/Users/ravi/Library/MobileDevice/Provisioning Profiles/D222A78C-5F17-407F-9CDC-28E40405DC48.mobileprovision
+c000000004E92DA440000000000001D85
+t1318246980
+s7557
+
+N/var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-brelqnzodjkavsdzaexbvddlugct/SHearingClinic-Prefix.pch.gch
+t1323925080
+s8238808
+
+N/var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-csijdfntedwwucdboynvkgltegee/SHearingClinic-Prefix.pch.gch
+t1323925080
+s7751384
+
+NSHearingClinic/SHC-Info.plist
+c000000004EE97D2F00000000000005BA
+t1323924783
+s1466
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies345617879#345617879#0(288"[WARN]iOS deployment target '4.3' for architecture 'armv6' and variant 'normal' is greater than the maximum value '4.2.99' for the iOS 4.2 SDK.[WARN]iOS deployment target '4.3' for architecture 'armv7' and variant 'normal' is greater than the maximum value '4.2.99' for the iOS 4.2 SDK.2(22@137"iOS deployment target '4.3' for architecture 'armv6' and variant 'normal' is greater than the maximum value '4.2.99' for the iOS 4.2 SDK.345617879#18446744073709551615#0#0(1@0"0(22@137"iOS deployment target '4.3' for architecture 'armv7' and variant 'normal' is greater than the maximum value '4.2.99' for the iOS 4.2 SDK.345617879#18446744073709551615#0#0(1@0"0(0#1#0"8603145280#0"0#
+
+CCodeSign /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app
+s345617886.838255
+e345617887.141581
+r1
+xCodeSign
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app
+lSLF07#2@37"CodeSign build/Debug-iphoneos/SHC.app345617886#345617887#0(0"0(0#0#63"/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app8602465120#612"    cd /Users/ravi/Desktop/SHearingClinic    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Brett Kettle (9386N54T5B)" --resource-rules=/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/ResourceRules.plist --entitlements /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC.xcent /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app0#
+
+CCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/AboutUsViewController.o /Users/ravi/Desktop/SHearingClinic/AboutUsViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s345617881.806212
+e345617882.038827
+r1
+xCompileC
+xbuild/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/AboutUsViewController.o
+x/Users/ravi/Desktop/SHearingClinic/AboutUsViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@66"Compile /Users/ravi/Desktop/SHearingClinic/AboutUsViewController.m345617881#345617882#0(0"0(0#0#58"/Users/ravi/Desktop/SHearingClinic/AboutUsViewController.m8611301344#1754"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv6 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-csijdfntedwwucdboynvkgltegee/SHearingClinic-Prefix.pch -c /Users/ravi/Desktop/SHearingClinic/AboutUsViewController.m -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/AboutUsViewController.o0#
+
+CCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/CliniciansViewController.o /Users/ravi/Desktop/SHearingClinic/CliniciansViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s345617881.549613
+e345617881.806111
+r1
+xCompileC
+xbuild/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/CliniciansViewController.o
+x/Users/ravi/Desktop/SHearingClinic/CliniciansViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@69"Compile /Users/ravi/Desktop/SHearingClinic/CliniciansViewController.m345617881#345617881#0(0"0(0#0#61"/Users/ravi/Desktop/SHearingClinic/CliniciansViewController.m8610836832#1760"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv6 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-csijdfntedwwucdboynvkgltegee/SHearingClinic-Prefix.pch -c /Users/ravi/Desktop/SHearingClinic/CliniciansViewController.m -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/CliniciansViewController.o0#
+
+CCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/ContactMapViewController.o /Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s345617882.038925
+e345617882.444720
+r1
+xCompileC
+xbuild/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/ContactMapViewController.o
+x/Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m:695: warning: incomplete implementation of class 'ContactMapViewController'
+o/Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m:695: warning: method definition for '-setScrollViewBackground' not found
+lSLF07#2@69"Compile /Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m345617882#345617882#0(273"/Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m:695: warning: incomplete implementation of class 'ContactMapViewController'/Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m:695: warning: method definition for '-setScrollViewBackground' not found2(22@61"Incomplete implementation of class 'ContactMapViewController'345617882#0#138#0(6@61"/Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m345556976#695#0#695#0#38"incomplete implementation of class '*'0(22@58"Method definition for '-setScrollViewBackground' not found345617882#138#135#0(6@61"/Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m345556976#695#0#695#0#35"method definition for '*' not found0(0#0#61"/Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m8604456864#1760"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv6 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-csijdfntedwwucdboynvkgltegee/SHearingClinic-Prefix.pch -c /Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/ContactMapViewController.o0#
+
+CCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/MainViewController.o /Users/ravi/Desktop/SHearingClinic/MainViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s345617881.471308
+e345617881.650769
+r1
+xCompileC
+xbuild/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/MainViewController.o
+x/Users/ravi/Desktop/SHearingClinic/MainViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@63"Compile /Users/ravi/Desktop/SHearingClinic/MainViewController.m345617881#345617881#0(0"0(0#0#55"/Users/ravi/Desktop/SHearingClinic/MainViewController.m8611683328#1748"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv6 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-csijdfntedwwucdboynvkgltegee/SHearingClinic-Prefix.pch -c /Users/ravi/Desktop/SHearingClinic/MainViewController.m -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/MainViewController.o0#
+
+CCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHearingClinicAppDelegate.o /Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s345617881.358157
+e345617881.471211
+r1
+xCompileC
+xbuild/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHearingClinicAppDelegate.o
+x/Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@85"Compile /Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicAppDelegate.m345617881#345617881#0(0"0(0#0#77"/Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicAppDelegate.m8611142912#1777"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv6 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-csijdfntedwwucdboynvkgltegee/SHearingClinic-Prefix.pch -c /Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicAppDelegate.m -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHearingClinicAppDelegate.o0#
+
+CCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHearingClinicViewController.o /Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s345617881.418060
+e345617881.549460
+r1
+xCompileC
+xbuild/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHearingClinicViewController.o
+x/Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@88"Compile /Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicViewController.m345617881#345617881#0(0"0(0#0#80"/Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicViewController.m8612278272#1783"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv6 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-csijdfntedwwucdboynvkgltegee/SHearingClinic-Prefix.pch -c /Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicViewController.m -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHearingClinicViewController.o0#
+
+CCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/ServicesViewController.o /Users/ravi/Desktop/SHearingClinic/ServicesViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s345617881.842671
+e345617882.088798
+r1
+xCompileC
+xbuild/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/ServicesViewController.o
+x/Users/ravi/Desktop/SHearingClinic/ServicesViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@67"Compile /Users/ravi/Desktop/SHearingClinic/ServicesViewController.m345617881#345617882#0(0"0(0#0#59"/Users/ravi/Desktop/SHearingClinic/ServicesViewController.m8610899072#1756"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv6 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-csijdfntedwwucdboynvkgltegee/SHearingClinic-Prefix.pch -c /Users/ravi/Desktop/SHearingClinic/ServicesViewController.m -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/ServicesViewController.o0#
+
+CCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/WelcomeViewController.o /Users/ravi/Desktop/SHearingClinic/WelcomeViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s345617881.650968
+e345617881.842570
+r1
+xCompileC
+xbuild/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/WelcomeViewController.o
+x/Users/ravi/Desktop/SHearingClinic/WelcomeViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@66"Compile /Users/ravi/Desktop/SHearingClinic/WelcomeViewController.m345617881#345617881#0(0"0(0#0#58"/Users/ravi/Desktop/SHearingClinic/WelcomeViewController.m8610237728#1754"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv6 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-csijdfntedwwucdboynvkgltegee/SHearingClinic-Prefix.pch -c /Users/ravi/Desktop/SHearingClinic/WelcomeViewController.m -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/WelcomeViewController.o0#
+
+CCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/main.o /Users/ravi/Desktop/SHearingClinic/SHearingClinic/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s345617881.356794
+e345617881.417958
+r1
+xCompileC
+xbuild/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/main.o
+x/Users/ravi/Desktop/SHearingClinic/SHearingClinic/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@64"Compile /Users/ravi/Desktop/SHearingClinic/SHearingClinic/main.m345617881#345617881#0(0"0(0#0#56"/Users/ravi/Desktop/SHearingClinic/SHearingClinic/main.m8612218464#1735"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv6 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-csijdfntedwwucdboynvkgltegee/SHearingClinic-Prefix.pch -c /Users/ravi/Desktop/SHearingClinic/SHearingClinic/main.m -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/AboutUsViewController.o /Users/ravi/Desktop/SHearingClinic/AboutUsViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s345617882.783515
+e345617882.987848
+r1
+xCompileC
+xbuild/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/AboutUsViewController.o
+x/Users/ravi/Desktop/SHearingClinic/AboutUsViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@66"Compile /Users/ravi/Desktop/SHearingClinic/AboutUsViewController.m345617882#345617882#0(0"0(0#0#58"/Users/ravi/Desktop/SHearingClinic/AboutUsViewController.m8611640928#1754"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv7 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-brelqnzodjkavsdzaexbvddlugct/SHearingClinic-Prefix.pch -c /Users/ravi/Desktop/SHearingClinic/AboutUsViewController.m -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/AboutUsViewController.o0#
+
+CCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/CliniciansViewController.o /Users/ravi/Desktop/SHearingClinic/CliniciansViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s345617882.532161
+e345617882.783421
+r1
+xCompileC
+xbuild/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/CliniciansViewController.o
+x/Users/ravi/Desktop/SHearingClinic/CliniciansViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@69"Compile /Users/ravi/Desktop/SHearingClinic/CliniciansViewController.m345617882#345617882#0(0"0(0#0#61"/Users/ravi/Desktop/SHearingClinic/CliniciansViewController.m8604446016#1760"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv7 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-brelqnzodjkavsdzaexbvddlugct/SHearingClinic-Prefix.pch -c /Users/ravi/Desktop/SHearingClinic/CliniciansViewController.m -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/CliniciansViewController.o0#
+
+CCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/ContactMapViewController.o /Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s345617882.987952
+e345617883.253589
+r1
+xCompileC
+xbuild/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/ContactMapViewController.o
+x/Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m:695: warning: incomplete implementation of class 'ContactMapViewController'
+o/Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m:695: warning: method definition for '-setScrollViewBackground' not found
+lSLF07#2@69"Compile /Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m345617882#345617883#0(273"/Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m:695: warning: incomplete implementation of class 'ContactMapViewController'/Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m:695: warning: method definition for '-setScrollViewBackground' not found2(22@61"Incomplete implementation of class 'ContactMapViewController'345617883#0#138#0(6@61"/Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m345556976#695#0#695#0#38"incomplete implementation of class '*'0(22@58"Method definition for '-setScrollViewBackground' not found345617883#138#135#0(6@61"/Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m345556976#695#0#695#0#35"method definition for '*' not found0(0#0#61"/Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m8607237312#1760"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv7 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-brelqnzodjkavsdzaexbvddlugct/SHearingClinic-Prefix.pch -c /Users/ravi/Desktop/SHearingClinic/ContactMapViewController.m -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/ContactMapViewController.o0#
+
+CCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/MainViewController.o /Users/ravi/Desktop/SHearingClinic/MainViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s345617882.383001
+e345617882.625570
+r1
+xCompileC
+xbuild/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/MainViewController.o
+x/Users/ravi/Desktop/SHearingClinic/MainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@63"Compile /Users/ravi/Desktop/SHearingClinic/MainViewController.m345617882#345617882#0(0"0(0#0#55"/Users/ravi/Desktop/SHearingClinic/MainViewController.m8611085568#1748"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv7 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-brelqnzodjkavsdzaexbvddlugct/SHearingClinic-Prefix.pch -c /Users/ravi/Desktop/SHearingClinic/MainViewController.m -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/MainViewController.o0#
+
+CCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHearingClinicAppDelegate.o /Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicAppDelegate.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s345617882.153016
+e345617882.263933
+r1
+xCompileC
+xbuild/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHearingClinicAppDelegate.o
+x/Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@85"Compile /Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicAppDelegate.m345617882#345617882#0(0"0(0#0#77"/Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicAppDelegate.m8603897216#1777"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv7 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-brelqnzodjkavsdzaexbvddlugct/SHearingClinic-Prefix.pch -c /Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicAppDelegate.m -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHearingClinicAppDelegate.o0#
+
+CCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHearingClinicViewController.o /Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s345617882.264037
+e345617882.382903
+r1
+xCompileC
+xbuild/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHearingClinicViewController.o
+x/Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@88"Compile /Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicViewController.m345617882#345617882#0(0"0(0#0#80"/Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicViewController.m8611748896#1783"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv7 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-brelqnzodjkavsdzaexbvddlugct/SHearingClinic-Prefix.pch -c /Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinicViewController.m -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHearingClinicViewController.o0#
+
+CCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/ServicesViewController.o /Users/ravi/Desktop/SHearingClinic/ServicesViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s345617882.826512
+e345617883.085880
+r1
+xCompileC
+xbuild/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/ServicesViewController.o
+x/Users/ravi/Desktop/SHearingClinic/ServicesViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@67"Compile /Users/ravi/Desktop/SHearingClinic/ServicesViewController.m345617882#345617883#0(0"0(0#0#59"/Users/ravi/Desktop/SHearingClinic/ServicesViewController.m8610788224#1756"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv7 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-brelqnzodjkavsdzaexbvddlugct/SHearingClinic-Prefix.pch -c /Users/ravi/Desktop/SHearingClinic/ServicesViewController.m -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/ServicesViewController.o0#
+
+CCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/WelcomeViewController.o /Users/ravi/Desktop/SHearingClinic/WelcomeViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s345617882.625673
+e345617882.826408
+r1
+xCompileC
+xbuild/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/WelcomeViewController.o
+x/Users/ravi/Desktop/SHearingClinic/WelcomeViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@66"Compile /Users/ravi/Desktop/SHearingClinic/WelcomeViewController.m345617882#345617882#0(0"0(0#0#58"/Users/ravi/Desktop/SHearingClinic/WelcomeViewController.m8611407840#1754"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv7 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-brelqnzodjkavsdzaexbvddlugct/SHearingClinic-Prefix.pch -c /Users/ravi/Desktop/SHearingClinic/WelcomeViewController.m -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/WelcomeViewController.o0#
+
+CCompileC build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/main.o /Users/ravi/Desktop/SHearingClinic/SHearingClinic/main.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s345617882.088900
+e345617882.152913
+r1
+xCompileC
+xbuild/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/main.o
+x/Users/ravi/Desktop/SHearingClinic/SHearingClinic/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@64"Compile /Users/ravi/Desktop/SHearingClinic/SHearingClinic/main.m345617882#345617882#0(0"0(0#0#56"/Users/ravi/Desktop/SHearingClinic/SHearingClinic/main.m8603953984#1735"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv7 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-brelqnzodjkavsdzaexbvddlugct/SHearingClinic-Prefix.pch -c /Users/ravi/Desktop/SHearingClinic/SHearingClinic/main.m -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/ravi/Desktop/SHearingClinic/SHearingClinic/en.lproj/MainWindow.xib
+s345617883.513814
+e345617884.680392
+r1
+xCompileXIB
+x/Users/ravi/Desktop/SHearingClinic/SHearingClinic/en.lproj/MainWindow.xib
+lSLF07#2@49"CompileXIB SHearingClinic/en.lproj/MainWindow.xib345617883#345617884#0(0"0(0#0#73"/Users/ravi/Desktop/SHearingClinic/SHearingClinic/en.lproj/MainWindow.xib8610864000#559"    cd /Users/ravi/Desktop/SHearingClinic    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/en.lproj/MainWindow.nib /Users/ravi/Desktop/SHearingClinic/SHearingClinic/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/ravi/Desktop/SHearingClinic/SHearingClinic/en.lproj/SHearingClinicViewController.xib
+s345617884.031781
+e345617884.738094
+r1
+xCompileXIB
+x/Users/ravi/Desktop/SHearingClinic/SHearingClinic/en.lproj/SHearingClinicViewController.xib
+lSLF07#2@67"CompileXIB SHearingClinic/en.lproj/SHearingClinicViewController.xib345617884#345617884#0(0"0(0#0#91"/Users/ravi/Desktop/SHearingClinic/SHearingClinic/en.lproj/SHearingClinicViewController.xib8611341632#595"    cd /Users/ravi/Desktop/SHearingClinic    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/en.lproj/SHearingClinicViewController.nib /Users/ravi/Desktop/SHearingClinic/SHearingClinic/en.lproj/SHearingClinicViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Arrow.png Arrow.png
+s345617884.838370
+e345617884.879065
+r1
+xCopyPNGFile
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Arrow.png
+xArrow.png
+lSLF07#2@60"CopyPNGFile build/Debug-iphoneos/SHC.app/Arrow.png Arrow.png345617884#345617884#0(0"0(0#0#44"/Users/ravi/Desktop/SHearingClinic/Arrow.png8603271680#542"    cd /Users/ravi/Desktop/SHearingClinic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ravi/Desktop/SHearingClinic/Arrow.png /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Arrow.png0#
+
+CCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Arrow2.png Arrow2.png
+s345617884.879163
+e345617884.921251
+r1
+xCopyPNGFile
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Arrow2.png
+xArrow2.png
+lSLF07#2@62"CopyPNGFile build/Debug-iphoneos/SHC.app/Arrow2.png Arrow2.png345617884#345617884#0(0"0(0#0#45"/Users/ravi/Desktop/SHearingClinic/Arrow2.png8602878048#544"    cd /Users/ravi/Desktop/SHearingClinic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ravi/Desktop/SHearingClinic/Arrow2.png /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Arrow2.png0#
+
+CCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Bar.png Bar.png
+s345617884.738184
+e345617884.787998
+r1
+xCopyPNGFile
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Bar.png
+xBar.png
+lSLF07#2@56"CopyPNGFile build/Debug-iphoneos/SHC.app/Bar.png Bar.png345617884#345617884#0(0"0(0#0#42"/Users/ravi/Desktop/SHearingClinic/Bar.png8606911744#538"    cd /Users/ravi/Desktop/SHearingClinic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ravi/Desktop/SHearingClinic/Bar.png /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Bar.png0#
+
+CCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Default.png Default.png
+s345617884.921345
+e345617885.360768
+r1
+xCopyPNGFile
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Default.png
+xDefault.png
+lSLF07#2@64"CopyPNGFile build/Debug-iphoneos/SHC.app/Default.png Default.png345617884#345617885#0(0"0(0#0#46"/Users/ravi/Desktop/SHearingClinic/Default.png8602728352#546"    cd /Users/ravi/Desktop/SHearingClinic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ravi/Desktop/SHearingClinic/Default.png /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Default.png0#
+
+CCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Header.png Header.png
+s345617884.788981
+e345617884.838275
+r1
+xCopyPNGFile
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Header.png
+xHeader.png
+lSLF07#2@62"CopyPNGFile build/Debug-iphoneos/SHC.app/Header.png Header.png345617884#345617884#0(0"0(0#0#45"/Users/ravi/Desktop/SHearingClinic/Header.png8603776192#544"    cd /Users/ravi/Desktop/SHearingClinic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ravi/Desktop/SHearingClinic/Header.png /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Header.png0#
+
+CCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Logo.png Logo.png
+s345617884.680566
+e345617884.788913
+r1
+xCopyPNGFile
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Logo.png
+xLogo.png
+lSLF07#2@58"CopyPNGFile build/Debug-iphoneos/SHC.app/Logo.png Logo.png345617884#345617884#0(0"0(0#0#43"/Users/ravi/Desktop/SHearingClinic/Logo.png8608553440#540"    cd /Users/ravi/Desktop/SHearingClinic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ravi/Desktop/SHearingClinic/Logo.png /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Logo.png0#
+
+CCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/bgButton.png bgButton.png
+s345617885.730356
+e345617885.756541
+r1
+xCopyPNGFile
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/bgButton.png
+xbgButton.png
+lSLF07#2@66"CopyPNGFile build/Debug-iphoneos/SHC.app/bgButton.png bgButton.png345617885#345617885#0(0"0(0#0#47"/Users/ravi/Desktop/SHearingClinic/bgButton.png8611305984#548"    cd /Users/ravi/Desktop/SHearingClinic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ravi/Desktop/SHearingClinic/bgButton.png /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/bgButton.png0#
+
+CCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/bgImage.png bgImage.png
+s345617884.788092
+e345617886.787035
+r1
+xCopyPNGFile
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/bgImage.png
+xbgImage.png
+lSLF07#2@64"CopyPNGFile build/Debug-iphoneos/SHC.app/bgImage.png bgImage.png345617884#345617886#0(0"0(0#0#46"/Users/ravi/Desktop/SHearingClinic/bgImage.png8603700128#546"    cd /Users/ravi/Desktop/SHearingClinic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ravi/Desktop/SHearingClinic/bgImage.png /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/bgImage.png0#
+
+CCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/icon114.png icon114.png
+s345617885.513667
+e345617885.562151
+r1
+xCopyPNGFile
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/icon114.png
+xicon114.png
+lSLF07#2@64"CopyPNGFile build/Debug-iphoneos/SHC.app/icon114.png icon114.png345617885#345617885#0(0"0(0#0#46"/Users/ravi/Desktop/SHearingClinic/icon114.png8610582560#546"    cd /Users/ravi/Desktop/SHearingClinic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ravi/Desktop/SHearingClinic/icon114.png /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/icon114.png0#
+
+CCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/icon57.png icon57.png
+s345617885.360896
+e345617885.404964
+r1
+xCopyPNGFile
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/icon57.png
+xicon57.png
+lSLF07#2@62"CopyPNGFile build/Debug-iphoneos/SHC.app/icon57.png icon57.png345617885#345617885#0(0"0(0#0#45"/Users/ravi/Desktop/SHearingClinic/icon57.png8609962400#544"    cd /Users/ravi/Desktop/SHearingClinic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ravi/Desktop/SHearingClinic/icon57.png /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/icon57.png0#
+
+CCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/icon72.png icon72.png
+s345617885.405064
+e345617885.513578
+r1
+xCopyPNGFile
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/icon72.png
+xicon72.png
+lSLF07#2@62"CopyPNGFile build/Debug-iphoneos/SHC.app/icon72.png icon72.png345617885#345617885#0(0"0(0#0#45"/Users/ravi/Desktop/SHearingClinic/icon72.png8611508448#544"    cd /Users/ravi/Desktop/SHearingClinic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ravi/Desktop/SHearingClinic/icon72.png /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/icon72.png0#
+
+CCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/iconBack.png iconBack.png
+s345617885.562240
+e345617885.609213
+r1
+xCopyPNGFile
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/iconBack.png
+xiconBack.png
+lSLF07#2@66"CopyPNGFile build/Debug-iphoneos/SHC.app/iconBack.png iconBack.png345617885#345617885#0(0"0(0#0#47"/Users/ravi/Desktop/SHearingClinic/iconBack.png8610134496#548"    cd /Users/ravi/Desktop/SHearingClinic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ravi/Desktop/SHearingClinic/iconBack.png /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/iconBack.png0#
+
+CCopyPNGFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/map.png map.png
+s345617885.609308
+e345617885.730262
+r1
+xCopyPNGFile
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/map.png
+xmap.png
+lSLF07#2@56"CopyPNGFile build/Debug-iphoneos/SHC.app/map.png map.png345617885#345617885#0(0"0(0#0#42"/Users/ravi/Desktop/SHearingClinic/map.png8603813824#538"    cd /Users/ravi/Desktop/SHearingClinic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ravi/Desktop/SHearingClinic/map.png /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/map.png0#
+
+CCopyStringsFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/en.lproj/InfoPlist.strings SHearingClinic/en.lproj/InfoPlist.strings
+s345617883.512243
+e345617884.031684
+r1
+xCopyStringsFile
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/en.lproj/InfoPlist.strings
+xSHearingClinic/en.lproj/InfoPlist.strings
+lSLF07#2@46"Copy SHearingClinic/en.lproj/InfoPlist.strings345617883#345617884#0(0"0(0#0#76"/Users/ravi/Desktop/SHearingClinic/SHearingClinic/en.lproj/InfoPlist.strings8611475936#472"    cd /Users/ravi/Desktop/SHearingClinic    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary SHearingClinic/en.lproj/InfoPlist.strings --outdir /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/en.lproj0#
+
+CCpResource build/Debug-iphoneos/SHC.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s345617879.987914
+e345617880.047236
+r1
+xCpResource
+xbuild/Debug-iphoneos/SHC.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist345617879#345617880#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8602918432#482"    cd /Users/ravi/Desktop/SHearingClinic    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app0#
+
+CCreateUniversalBinary /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/SHC normal "armv6 armv7"
+s345617883.299931
+e345617883.303535
+r1
+xCreateUniversalBinary
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/SHC
+xnormal
+xarmv6 armv7
+lSLF07#2@75"CreateUniversalBinary build/Debug-iphoneos/SHC.app/SHC normal "armv6 armv7"345617883#345617883#0(0"0(0#0#46"/Users/ravi/Desktop/SHearingClinic/armv6 armv78611329536#470"    cd /Users/ravi/Desktop/SHearingClinic    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHC /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHC -output /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/SHC0#
+
+CGenerateDSYMFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app.dSYM /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/SHC
+s345617883.303633
+e345617883.512140
+r1
+xGenerateDSYMFile
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app.dSYM
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/SHC
+lSLF07#2@83"GenerateDSYMFile build/Debug-iphoneos/SHC.app.dSYM build/Debug-iphoneos/SHC.app/SHC345617883#345617883#0(0"0(0#0#67"/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/SHC8611048640#338"    cd /Users/ravi/Desktop/SHearingClinic    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/SHC -o /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app.dSYM0#
+
+CLd /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHC normal armv6
+s345617882.444923
+e345617882.532047
+r1
+xLd
+x/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHC
+xnormal
+xarmv6
+lSLF07#2@105"Link /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHC345617882#345617882#0(0"0(0#0#0"8607282624#857"    cd /Users/ravi/Desktop/SHearingClinic    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -filelist /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHC.LinkFileList -dead_strip -miphoneos-version-min=4.3 -lxml2 -framework UIKit -framework Foundation -framework CoreGraphics -framework MessageUI -prebind -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv6/SHC0#
+
+CLd /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHC normal armv7
+s345617883.253682
+e345617883.299821
+r1
+xLd
+x/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHC
+xnormal
+xarmv7
+lSLF07#2@105"Link /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHC345617883#345617883#0(0"0(0#0#0"8611804544#857"    cd /Users/ravi/Desktop/SHearingClinic    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -filelist /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHC.LinkFileList -dead_strip -miphoneos-version-min=4.3 -lxml2 -framework UIKit -framework Foundation -framework CoreGraphics -framework MessageUI -prebind -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/Objects-normal/armv7/SHC0#
+
+CProcessInfoPlistFile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Info.plist SHearingClinic/SHC-Info.plist
+s345617879.989913
+e345617880.015740
+r1
+xProcessInfoPlistFile
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Info.plist
+xSHearingClinic/SHC-Info.plist
+lSLF07#2@37"Process SHearingClinic/SHC-Info.plist345617879#345617880#0(0"0(0#0#64"/Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHC-Info.plist8602826880#545"    cd /Users/ravi/Desktop/SHearingClinic    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SHearingClinic/SHC-Info.plist -genpkginfo /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/ResourceRules.plist -o /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/Info.plist0#
+
+CProcessPCH /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-brelqnzodjkavsdzaexbvddlugct/SHearingClinic-Prefix.pch.gch SHearingClinic/SHearingClinic-Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42
+s345617880.048502
+e345617881.356645
+r1
+xProcessPCH
+x/var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-brelqnzodjkavsdzaexbvddlugct/SHearingClinic-Prefix.pch.gch
+xSHearingClinic/SHearingClinic-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@51"Precompile SHearingClinic/SHearingClinic-Prefix.pch345617880#345617881#0(0"0(0#0#75"/Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinic-Prefix.pch8611751136#1652"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv7 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinic-Prefix.pch -o /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-brelqnzodjkavsdzaexbvddlugct/SHearingClinic-Prefix.pch.gch0#
+
+CProcessPCH /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-csijdfntedwwucdboynvkgltegee/SHearingClinic-Prefix.pch.gch SHearingClinic/SHearingClinic-Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+s345617880.047382
+e345617881.220497
+r1
+xProcessPCH
+x/var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-csijdfntedwwucdboynvkgltegee/SHearingClinic-Prefix.pch.gch
+xSHearingClinic/SHearingClinic-Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@51"Precompile SHearingClinic/SHearingClinic-Prefix.pch345617880#345617881#0(0"0(0#0#75"/Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinic-Prefix.pch8612030784#1652"    cd /Users/ravi/Desktop/SHearingClinic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-generated-files.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-own-target-headers.hmap -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-all-target-headers.hmap -iquote /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC-project-headers.hmap -F/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos -I/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/include -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources/armv6 -I/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/ravi/Desktop/SHearingClinic/SHearingClinic/SHearingClinic-Prefix.pch -o /var/folders/0N/0NPtQdH5FbKh10bnkWwtUE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SHearingClinic-Prefix-csijdfntedwwucdboynvkgltegee/SHearingClinic-Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/ravi/Library/MobileDevice/Provisioning Profiles/1E93344C-B92D-4922-93A7-7668742722E9.mobileprovision" /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/embedded.mobileprovision
+s345617886.787254
+e345617886.823494
+r1
+xProcessProductPackaging
+x/Users/ravi/Library/MobileDevice/Provisioning Profiles/1E93344C-B92D-4922-93A7-7668742722E9.mobileprovision
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/embedded.mobileprovision
+lSLF07#2@187"ProcessProductPackaging "/Users/ravi/Library/MobileDevice/Provisioning Profiles/1E93344C-B92D-4922-93A7-7668742722E9.mobileprovision" build/Debug-iphoneos/SHC.app/embedded.mobileprovision345617886#345617886#0(0"0(0#0#88"/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/embedded.mobileprovision8607612704#410"    cd /Users/ravi/Desktop/SHearingClinic    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/ravi/Library/MobileDevice/Provisioning Profiles/1E93344C-B92D-4922-93A7-7668742722E9.mobileprovision" -o /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/ravi/Library/MobileDevice/Provisioning Profiles/D222A78C-5F17-407F-9CDC-28E40405DC48.mobileprovision" /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/embedded.mobileprovision
+s345557528.653285
+e345557528.692474
+r1
+xProcessProductPackaging
+x/Users/ravi/Library/MobileDevice/Provisioning Profiles/D222A78C-5F17-407F-9CDC-28E40405DC48.mobileprovision
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/embedded.mobileprovision
+lSLF07#2@187"ProcessProductPackaging "/Users/ravi/Library/MobileDevice/Provisioning Profiles/D222A78C-5F17-407F-9CDC-28E40405DC48.mobileprovision" build/Debug-iphoneos/SHC.app/embedded.mobileprovision345557528#345557528#0(0"0(0#0#88"/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/embedded.mobileprovision8614019648#410"    cd /Users/ravi/Desktop/SHearingClinic    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/ravi/Library/MobileDevice/Provisioning Profiles/D222A78C-5F17-407F-9CDC-28E40405DC48.mobileprovision" -o /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC.xcent
+s345617886.828340
+e345617886.838180
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC.xcent
+lSLF07#2@163"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/SHC.build/Debug-iphoneos/SHC.build/SHC.xcent345617886#345617886#0(0"0(0#0#85"/Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC.xcent8602974080#412"    cd /Users/ravi/Desktop/SHearingClinic    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/ravi/Desktop/SHearingClinic/build/SHC.build/Debug-iphoneos/SHC.build/SHC.xcent0#
+
+CTouch /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app
+s345617886.823590
+e345617886.828249
+r1
+xTouch
+x/Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app
+lSLF07#2@69"Touch /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app345617886#345617886#0(0"0(0#0#0"8604287616#252"    cd /Users/ravi/Desktop/SHearingClinic    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ravi/Desktop/SHearingClinic/build/Debug-iphoneos/SHC.app0#
+
